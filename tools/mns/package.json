@@ -1,0 +1,6 @@
+{
+  "name": "rakz-agent-mns-tool",
+  "private": true,
+  "type": "module",
+  "description": "Internal mns CLI for the Rakz agent. Not published; vendored parser in ./vendor."
+}
